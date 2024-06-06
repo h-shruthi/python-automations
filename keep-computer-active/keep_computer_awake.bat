@@ -1,0 +1,1 @@
+cmd /k C:\Users\BANDHAM\miniconda3\envs\telegram_bot_venv\python.exe keep_computer_awake.py
